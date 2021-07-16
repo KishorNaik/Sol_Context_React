@@ -1,0 +1,8 @@
+Step 1:
+Create a Context inside the Component folder. Check EmployeeContext.ts file.
+
+Step 2:
+Create a Employee Component inside the Component folder. Check Source Code.
+
+Step 3:
+Create a EmployeeInfo Component inside the Component folder. Check Source Code.
